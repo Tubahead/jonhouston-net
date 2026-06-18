@@ -2,8 +2,6 @@
 title: Jon Houston's Notebook
 ---
 
-# Jon Houston’s Notebook
-
 A public digital garden of projects, music, notes, and teaching resources.
 
 Start here:

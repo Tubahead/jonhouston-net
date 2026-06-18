@@ -2,8 +2,6 @@
 title: Projects
 ---
 
-# Projects
-
 Ongoing work, experiments, drafts, and longer threads.
 
 ## Current areas
