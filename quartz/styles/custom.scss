@@ -102,3 +102,14 @@ h2,
 h3 {
   margin-top: 2rem;
 }
+
+/* Hide only heading anchor links, not the homepage link */
+
+h1 a[href^="#"],
+h2 a[href^="#"],
+h3 a[href^="#"],
+h4 a[href^="#"],
+h5 a[href^="#"],
+h6 a[href^="#"] {
+  display: none !important;
+}
