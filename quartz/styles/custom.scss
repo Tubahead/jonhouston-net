@@ -4,3 +4,101 @@
 .page-listing {
   display: none;
 }
+
+/* Make internal page links look like text links instead of grey pills */
+
+a.internal {
+  background-color: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
+a.internal:hover {
+  color: var(--secondary);
+  text-decoration-thickness: 2px;
+}
+
+/* Make site text black instead of Quartz's softer grey */
+
+body,
+article,
+section,
+main,
+p,
+li,
+ul,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+blockquote,
+.page-title,
+.content,
+.center,
+.sidebar,
+footer {
+  color: #000000 !important;
+}
+
+a,
+a.internal,
+a.external {
+  color: #000000 !important;
+}
+
+/* Use an old-school readable serif font */
+
+body,
+article,
+section,
+main,
+p,
+li,
+ul,
+ol,
+blockquote,
+.content,
+.center {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.page-title {
+  font-family: "Times New Roman", Times, serif !important;
+  font-weight: 600;
+}
+
+/* Make the paper-like font easier to read on screen */
+
+article,
+.content,
+.center {
+  line-height: 1.6;
+  max-width: 760px;
+}
+
+p,
+li {
+  font-size: 1.05rem;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+h2,
+h3 {
+  margin-top: 2rem;
+}
