@@ -11,3 +11,7 @@ Topic handouts for philosophy club meetings.
 ## Ethics
 
 - [[philosophy-club/aristotles-ethics|Aristotle's Ethics]]
+
+## Political Philosophy
+
+- [[philosophy-club/utopia-and-ideal-theory|Utopia and Ideal Theory]]
