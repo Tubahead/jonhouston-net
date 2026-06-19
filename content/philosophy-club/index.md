@@ -8,5 +8,5 @@ Handouts, readings, discussion prompts, and resources for philosophy club.
 
 - [[philosophy-club/start-here|Start Here]]
 - [[philosophy-club/handouts|Handouts]]
-- Resources
-- Discussion Prompts
+- [[philosophy-club/resources|Resources]]
+- [[philosophy-club/potential-topics|Potential Topics]]
