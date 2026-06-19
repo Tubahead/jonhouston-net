@@ -1,4 +1,7 @@
-# Philosophy Club Introduction
+---
+title: Philosophy Club Introduction
+---
+
 
 ## What Is Philosophy?
 
