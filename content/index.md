@@ -4,8 +4,15 @@ title: Jon Houston's Notebook
 
 A public digital garden of projects, music, notes, and teaching resources.
 
-Start here:
 
-- [[projects/index|Projects]]
-- [[music/index|Music]]
-- [[philosophy-club/index|Philosophy Club]]
+## [[cultivation/index|Cultivation]]
+
+Reflections on the cultivational mindset
+
+## [[interests/index|Interests]]
+
+The things I return to
+
+## [[philosophy-club/index|Philosophy Club]]
+
+Handouts, readings, and resources for philosophy club

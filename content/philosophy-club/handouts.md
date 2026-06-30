@@ -58,7 +58,7 @@ Topic handouts for philosophy club meetings.
 
 - [[philosophy-club/confucianism|Confucianism]]
 
-- [[philosophy-club/cultivation|The Philosophy of Jon Houston: Life's a Garden]]
+- [[philosophy-club/life-as-garden|Cultivation]]
 
 - [[philosophy-club/incommensurable-values|Incommensurable Values]]
 
