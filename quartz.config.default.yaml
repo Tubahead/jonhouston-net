@@ -3,7 +3,7 @@ configuration:
   pageTitle: Jon Houston's Notebook
   pageTitleSuffix: ""
   enableSPA: true
-  enablePopovers: true
+  enablePopovers: false
   analytics:
     provider: plausible
   locale: en-US
