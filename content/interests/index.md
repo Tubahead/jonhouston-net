@@ -2,8 +2,11 @@
 title: Interests
 ---
 
-Things I return to over and over: music, Latin, evolution, Thoreau, and other long-running interests.
+Things I return to over and over
 
 ## Current Interests
 
+- [[interests/tolkien/index|Tolkien]]
+
 - [[interests/music/index|Music]]
+
