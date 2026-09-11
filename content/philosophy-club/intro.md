@@ -1,13 +1,13 @@
+```markdown
 ---
 title: Philosophy Club Introduction
 ---
-
 
 ## What Is Philosophy?
 
 Philosophy is the attempt to answer big questions: questions that cannot be answered simply by looking them up or by performing experiments.
 
-These are questions we answer by reason, argument, and careful discussion. One philosopher described them as “the biggest questions a human can ask.”
+These are questions we answer by reason, argument, and careful discussion. One philosopher described them as "the biggest questions a human can ask."
 
 ## How We Will Approach Philosophy
 
@@ -65,56 +65,65 @@ If you have something to say, you should say it.
 
 ## A Brief Outline of Philosophy
 
-### Value Theory
+Philosophy can be divided into three broad areas.
 
-Value theory asks questions about value, goodness, beauty, justice, and how we ought to live.
+- **Value Theory** asks what is good, beautiful, just, and how we ought to live.
+- **Descriptive Philosophy** asks what exists, what we can know, and what reality is like.
+- **Methodology** asks how philosophical questions should be investigated.
+
+This year we will explore questions from each of these areas.
+
+### Value Theory
 
 #### Ethics
 
-- Virtue ethics
-- Stoicism
-- Utilitarianism
-- Deontology
-- Feminism
-- Applied ethics
+- Duty to Oneself
+- Special Obligations
+- Ethics of Care
+- Moral Luck
+- Lifeboat Ethics
 
 #### Aesthetics
 
-- Philosophy of art
-- AI art
-- Philosophy of music
+- Can Taste Improve?
+- Can Food Be Art?
 
 #### Political Philosophy
 
-- Liberalism
-- Locke on private property
-- Civility
-- Rawls
-- Marxism
-- Conservatism
-- Confucianism
+- What Is the Purpose of Government?
 
 ### Descriptive Philosophy
 
-Descriptive philosophy asks questions about what exists, what we can know, and what reality is like.
-
 #### Metaphysics
 
-- Philosophy of mind
-- Philosophy of mathematics
-- Free will
-- Ontology
+- Do Objects Have Natural Boundaries?
 
 #### Epistemology
 
-- Skepticism
-- Philosophy of science
-- The demarcation problem
+- What Makes Someone an Expert?
+- The Münchhausen Trilemma
 
 ### Methodology
 
-Methodology asks how philosophy should be done.
+Methodology asks how philosophical questions should be investigated.
 
-- Philosophical method
-- Logic
-- First-order propositional logic
+Questions include:
+
+- What makes a good argument?
+- What is the role of logic?
+- What counts as a good explanation?
+- How should we evaluate evidence?
+- When should we change our minds?
+
+Methodology gives us the tools we use to investigate every other branch of philosophy.
+
+## Beyond the Western Tradition
+
+Throughout the year we will also examine philosophical traditions from outside the Western tradition.
+
+This year we will explore Jain philosophy through the question:
+
+- What Do We Owe Other Living Things?
+
+One of the goals of the club is to discover that philosophy is much larger than any one philosopher, culture, or tradition.
+```
