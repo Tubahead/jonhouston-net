@@ -36,6 +36,8 @@ Topic handouts for philosophy club meetings.
 
 ## Epistemology
 
+- [[philosophy-club/expertise|What Makes Someone an Expert?]]
+
 - [[philosophy-club/gettier-cases|Gettier Cases]]
 
 - [[philosophy-club/hedgehogs-and-foxes|Hedgehogs and Foxes]]
