@@ -1,7 +1,9 @@
 
-# What Makes Someone an Expert?
+---
+title: What Makes Someone an Expert?
+---
 
-**Primary Reading:** Plato, *Apology* 21b–23b (especially 22c–22e)
+**Primary Reading:** Plato, *Apology*
 
 ## Plato's Central Question
 

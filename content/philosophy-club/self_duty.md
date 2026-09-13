@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Duty to Oneself
 ---
@@ -59,4 +58,3 @@ The second claim is much stronger.
 - Are duties to yourself really moral duties, or are they just prudential advice?
 
 - Who gets to decide what you owe yourself?
-```

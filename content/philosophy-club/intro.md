@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Philosophy Club Introduction
 ---
@@ -126,4 +125,3 @@ This year we will explore Jain philosophy through the question:
 - What Do We Owe Other Living Things?
 
 One of the goals of the club is to discover that philosophy is much larger than any one philosopher, culture, or tradition.
-```
