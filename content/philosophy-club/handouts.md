@@ -68,6 +68,8 @@ Topic handouts for philosophy club meetings.
 
 - [[philosophy-club/meaning-in-life|Meaning in Life]]
 
+- [[philosophy-club/self_duty|Duty to Oneself]]
+
 - [[philosophy-club/theory-of-health|Theory of Health]]
 
 ## Feminism
